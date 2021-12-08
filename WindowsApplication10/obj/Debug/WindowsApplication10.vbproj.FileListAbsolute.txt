@@ -1,0 +1,33 @@
+D:\cemal\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+D:\cemal\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+D:\cemal\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+D:\cemal\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbprojResolveAssemblyReference.cache
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+D:\cemal\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\Hitit\Desktop\ORTALAMA -VİZE HESAPLAMA\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+C:\Users\Hitit\Desktop\ORTALAMA -VİZE HESAPLAMA\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Users\Hitit\Desktop\ORTALAMA -VİZE HESAPLAMA\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+C:\Users\Hitit\Desktop\ORTALAMA -VİZE HESAPLAMA\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.vbprojResolveAssemblyReference.cache
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form2.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form3.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form4.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form5.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form6.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form7.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\VB DERS\WindowsApplication10\obj\Debug\WindowsApplication10.Form8.resources
